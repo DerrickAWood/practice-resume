@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+}
+
+.card{
+  background-color: white;
+  border: .3rem solid black;
+  color: rgb(122, 117, 117);
+  text-align: center;
+}
+
+.title2{
+  background-color: black;
+  color: white;
+}
+
+img{
+  height: 10rem;
+}
